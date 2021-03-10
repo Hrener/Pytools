@@ -1,0 +1,3 @@
+2020-10-13 11:05:03,301 - This is YOLO-v2 Training:
+
+2020-10-13 11:05:09,648 - [Epoch 1/250][Iter 0/5011][lr 0.000000][Loss: obj 66.45 || cls 2.65 || bbox 2.16 || total 71.27 || size 224 || time: 2.62]
